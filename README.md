@@ -12,6 +12,9 @@ Install the helper module in your Python notebook environment by
 
 ## Contact
 
-Max-Heinrich Laves  
-laves@imes.uni-hannover.de  
+Leon Budde  
+leon.budde@imes.uni-hannover.de
+
+## Created and developed by
+Max-Heinrich Laves 2020
 Twitter: @MaxLaves  
