@@ -1,6 +1,6 @@
 # curac_utils
 
-Helper module for lecture "Computer- und roboter-assistierte Chirurgie" in summer semester 2020 at Leibniz Universität Hannover.
+Helper module for lecture "Computer- und roboter-assistierte Chirurgie" in summer semester 2021 at Leibniz Universität Hannover.
 
 ## Usage
 
