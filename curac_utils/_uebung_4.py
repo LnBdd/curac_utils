@@ -39,8 +39,8 @@ class Uebung_4():
     @staticmethod
     def aufg_2_b_get_imgs():
 
-        ct_path = pkg_resources.resource_filename(__name__, 'data/ct_g.jpg')
-        mrt_path = pkg_resources.resource_filename(__name__, 'data/mrt_g.jpg')
+        ct_path = pkg_resources.resource_filename(__name__, 'data/ct_g.png')
+        mrt_path = pkg_resources.resource_filename(__name__, 'data/mrt_g.png')
 
         ct_g = img_as_float(io.imread(ct_path))
         mrt_g = img_as_float(io.imread(mrt_path))
@@ -50,8 +50,8 @@ class Uebung_4():
     @staticmethod
     def aufg_2_c_get_imgs():
 
-        ct_path = pkg_resources.resource_filename(__name__, 'data/ct_fid1.jpg')
-        mrt_path = pkg_resources.resource_filename(__name__, 'data/mrt_fid1_t1.jpg')
+        ct_path = pkg_resources.resource_filename(__name__, 'data/ct_fid1.png')
+        mrt_path = pkg_resources.resource_filename(__name__, 'data/mrt_fid1_t1.png')
 
         ct_g = img_as_float(io.imread(ct_path))
         mrt_g = img_as_float(io.imread(mrt_path))
@@ -61,8 +61,8 @@ class Uebung_4():
     @staticmethod
     def aufg_2_d_get_imgs():
 
-        ct_path = pkg_resources.resource_filename(__name__, 'data/ct_fid2.jpg')
-        mrt_path = pkg_resources.resource_filename(__name__, 'data/mrt_fid2_t1.jpg')
+        ct_path = pkg_resources.resource_filename(__name__, 'data/ct_fid2.png')
+        mrt_path = pkg_resources.resource_filename(__name__, 'data/mrt_fid2_t1.png')
 
         ct_g = img_as_float(io.imread(ct_path))
         mrt_g = img_as_float(io.imread(mrt_path))
