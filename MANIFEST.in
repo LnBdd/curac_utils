@@ -1,10 +1,10 @@
 include README.md
 include curac_utils/data/a2gray.tiff
-include curac_utils/data/CT_g.jpg
-include curac_utils/data/CT_fid1.jpg
-include curac_utils/data/CT_fid2.jpg
-include curac_utils/data/MRT_g.jpg
-include curac_utils/data/MRT_fid1_t1.jpg
-include curac_utils/data/MRT_fid2_t1.jpg
+include curac_utils/data/ct_g.jpg
+include curac_utils/data/ct_fid1.jpg
+include curac_utils/data/ct_fid2.jpg
+include curac_utils/data/mrt_g.jpg
+include curac_utils/data/mrt_fid1_t1.jpg
+include curac_utils/data/mrt_fid2_t1.jpg
 include curac_utils/data/pointcloud1.xyz1
 include curac_utils/data/pointcloud2.xyz1
